@@ -1,6 +1,8 @@
 # RK_police_object
 Menù per gli oggetti di scena della polizia (possibilità di aggiungerne altri
 
+Per altri script gratuiti: https://discord.gg/ZHegCb43
+
 Dipendenze:
 ox_lib
 ox_target
