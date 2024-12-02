@@ -1,5 +1,5 @@
 # RK_police_object
-Menù per gli oggetti di scena della polizia (possibilità di aggiungerne altri
+Menù per gli oggetti di scena della polizia (possibilità di aggiunge altri oggetti)
 
 Per altri script gratuiti: https://discord.gg/ZHegCb43
 
