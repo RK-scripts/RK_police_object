@@ -1,12 +1,17 @@
 # RK_police_object  (ESX FIVEM)
-Menù per gli oggetti di scena della polizia (possibilità di aggiunge altri oggetti)
+RK Scripts- Police Props 🚔 (ESX FIVEM)
+
+
+Take your server to the next level with our dedicated police script! It allows you to easily place props such as cones, barriers and more, to handle crime scenes and traffic checks in a realistic way. Optimized for ESX, simple to use and perfect for enriching your players' gameplay!
+
+Frameworks:
+ESX
+
+Dependencies:
+ox_lib
+
 
 Per altri script gratuiti: https://discord.gg/ZHegCb43
-
-Dipendenze:
-ox_lib
-ox_target
-es_extended
 
 ![Screenshot (577)](https://github.com/user-attachments/assets/e5a903e8-364b-41e4-854f-4a2c36518103)
 
