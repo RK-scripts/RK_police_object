@@ -11,7 +11,7 @@ Dependencies:
 ox_lib
 
 
-Per altri script gratuiti: https://discord.gg/ZHegCb43
+Per altri script gratuiti: https://discord.gg/yhG9GkhytW
 
 ![Screenshot (577)](https://github.com/user-attachments/assets/e5a903e8-364b-41e4-854f-4a2c36518103)
 
